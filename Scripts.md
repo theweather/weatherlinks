@@ -1,4 +1,4 @@
-For Trello list colors <a href="https://trello.com/c/RbVustT9/75-change-list-colors-likely-to-be-implemented-as-a-border-trying-not-to-mess-up-the-ui">(link to Trello resource)
+For Trello list colors <a href="https://trello.com/c/RbVustT9/75-change-list-colors-likely-to-be-implemented-as-a-border-trying-not-to-mess-up-the-ui">(link to Trello resource)</a>
 
 <pre>$('.list').each(function(i, el) {
     switch ($(el).find("h2").text()) {
